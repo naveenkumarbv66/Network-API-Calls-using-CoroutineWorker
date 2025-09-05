@@ -53,6 +53,6 @@ Notable Files
 Notes
 --
 - Internet permission is declared in the manifest.
-- WorkManager is used to perform network work in the background.
+- CoroutineWorker/WorkManager is used to perform network work in the background.
 - Logging interceptor is enabled for network call inspection in Logcat.
 
