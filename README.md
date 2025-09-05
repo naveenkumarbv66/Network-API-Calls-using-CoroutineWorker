@@ -1,4 +1,4 @@
-Network/API calls using Coroutines, ViewModel, Repository.
+Network/API calls using CoroutineWorker, ViewModel, Repository.
 ==========================
 
 Android demo showcasing GET and POST network operations using MVVM, Repository, Retrofit, Coroutines, and WorkManager with Jetpack Compose UI.
